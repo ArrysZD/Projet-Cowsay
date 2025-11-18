@@ -15,6 +15,7 @@ Expérimentation avec des animations en ligne de commande.
 Recode de cowsay en C avec de nouvelles options personnalisées (modification des yeux, longueur de la queue...).
 Implémentation d'une vache animée capable de se déplacer et d’interagir avec l’utilisateur.
 Ajout d’une fonctionnalité où la vache peut "lire" un fichier caractère par caractère.
+
 🤖 Automate :
 
 Création d'un jeu "Tamagoshi-vache" où il faut nourrir une vache pour la garder en vie le plus longtemps possible.
