@@ -9,6 +9,7 @@ Le projet a évolué en plusieurs étapes :
 Création de scripts permettant d'afficher dynamiquement des messages avec la vache.
 Ajout de fonctionnalités comme l'affichage de suites de nombres (Fibonacci, nombres premiers, etc.).
 Expérimentation avec des animations en ligne de commande.
+
 💻 C :
 
 Recode de cowsay en C avec de nouvelles options personnalisées (modification des yeux, longueur de la queue...).
